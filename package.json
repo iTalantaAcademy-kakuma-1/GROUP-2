@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/iTalantaAcademy-kakuma-1/GROUP-2#readme",
   "dependencies": {
+    "split": "^1.0.1",
     "weld": "^0.2.2"
   }
 }
