@@ -18,6 +18,8 @@
   "homepage": "https://github.com/iTalantaAcademy-kakuma-1/GROUP-2#readme",
   "dependencies": {
     "optimist": "^0.6.1",
+    "request": "^2.88.2",
+    "save": "^2.4.0",
     "split": "^1.0.1",
     "weld": "^0.2.2"
   }
